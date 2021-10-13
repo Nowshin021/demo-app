@@ -1,0 +1,45 @@
+ .modal-body a{
+    color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.card{
+    margin:10px;
+    text-align: center;
+    border-radius: 4px;
+   
+   
+}
+.card-img-top {
+    width: auto;
+    height: 200px;
+    object-fit:cover;
+    border-radius: 1px;;
+}
+.card-body{
+    margin: 0;
+    background-color: rgb(228, 236, 216);
+    
+    
+}
+
+.modal-body{
+    font-family: Arial, Helvetica, sans-serif;
+    transition: 0.5sec ease-in;
+    background-color: rgb(228, 236, 216);
+    font-weight: 300;
+   
+}
+
+.modal-title{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+
+}
+
+.modal.footer{
+    background-color: rgb(228, 236, 216);
+
+}
